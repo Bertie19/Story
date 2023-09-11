@@ -1,0 +1,5 @@
+[33mcommit 4fba5996795f67020c0b28c2c86edf0fb44ae075[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bertie19 <alberty.bb@gmail.com>
+Date:   Mon Sep 11 16:06:56 2023 +0530
+
+    Complete Chatpter 1
